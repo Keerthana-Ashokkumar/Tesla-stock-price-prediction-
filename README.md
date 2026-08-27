@@ -13,7 +13,7 @@ Mental Health and Healthcare AI
 
 
 
-##bProblem Statement
+## Problem Statement
 The goal of this project is to predict whether an individual may experience depression based on various factors such as demographic information, lifestyle choices, and medical history. By leveraging deep learning, the model will be able to identify patterns in the data that could indicate a higher likelihood of depression. The solution must address the complexities of healthcare data, including biases, and provide equitable predictions for people from diverse backgrounds.
 
 
