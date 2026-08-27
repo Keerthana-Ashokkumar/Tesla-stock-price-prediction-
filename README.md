@@ -93,7 +93,7 @@ Healthcare AI
 #Variables: Age, gender, lifestyle factors, medical history, family history of depression, sleep patterns, etc. (The actual features will depend on the dataset used).
 
 ## Data Set Explanation
-# The dataset contains information collected from a mental health survey. Each record represents an individual and includes multiple features such as age, gender, lifestyle choices (e.g., physical activity, sleep), and previous medical history. The target variable (dependent) could be a binary variable representing whether the person is diagnosed with depression or not.
+The dataset contains information collected from a mental health survey. Each record represents an individual and includes multiple features such as age, gender, lifestyle choices (e.g., physical activity, sleep), and previous medical history. The target variable (dependent) could be a binary variable representing whether the person is diagnosed with depression or not.
 # Preprocessing Steps:
 Handle missing values by imputation or deletion.
 Encode categorical variables (e.g., gender, medical history) using techniques such as one-hot encoding.
