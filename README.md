@@ -50,20 +50,23 @@ The output layer should be designed for classification (e.g., predicting whether
 # Pipeline Concept:
 
 
-## Data Pipeline: Ensure the data flows from loading to preprocessing, training, and testing seamlessly.
+## Data Pipeline:
+Ensure the data flows from loading to preprocessing, training, and testing seamlessly.
 Model Training Pipeline: Automate the training, evaluation, and testing of models.
-## Evaluation Metrics: Use metrics such as accuracy, precision, recall, and F1-score for performance evaluation.
+## Evaluation Metrics:
+Use metrics such as accuracy, precision, recall, and F1-score for performance evaluation.
 # Model Deployment:
-
-
 Develop a Streamlit application where users can input their data (e.g., age, lifestyle, etc.), and the model will output a prediction for depression.
 Deploy the Streamlit app on AWS using Elastic Beanstalk or EC2 for real-time prediction. 
 Or use Streamlit cloud to deploy the model
 
 ## Results
-# Model Performance: The deep learning model should provide accurate predictions, with a focus on fairness across different demographic groups.
-# Streamlit App: A user-friendly interface to input patient data and get real-time predictions.
-# Deployed Application: A robust application deployed on AWS, accessible to users for live testing.
+# Model Performance:
+The deep learning model should provide accurate predictions, with a focus on fairness across different demographic groups.
+# Streamlit App:
+A user-friendly interface to input patient data and get real-time predictions.
+# Deployed Application:
+A robust application deployed on AWS, accessible to users for live testing.
 
 ## Project Evaluation Metrics
 - Accuracy: Percentage of correct predictions out of all predictions.
