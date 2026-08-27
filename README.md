@@ -61,9 +61,9 @@ Deploy the Streamlit app on AWS using Elastic Beanstalk or EC2 for real-time pre
 Or use Streamlit cloud to deploy the model
 
 ## Results
-## nModel Performance: The deep learning model should provide accurate predictions, with a focus on fairness across different demographic groups.
-## Streamlit App: A user-friendly interface to input patient data and get real-time predictions.
-## Deployed Application: A robust application deployed on AWS, accessible to users for live testing.
+# Model Performance: The deep learning model should provide accurate predictions, with a focus on fairness across different demographic groups.
+# Streamlit App: A user-friendly interface to input patient data and get real-time predictions.
+# Deployed Application: A robust application deployed on AWS, accessible to users for live testing.
 
 ## Project Evaluation Metrics
 - Accuracy: Percentage of correct predictions out of all predictions.
@@ -85,13 +85,13 @@ Mental Health
 Healthcare AI
 
 ## Data Set
-## Source: Mental health survey data 
-## Format: CSV, Excel, or other tabular formats.
-## Variables: Age, gender, lifestyle factors, medical history, family history of depression, sleep patterns, etc. (The actual features will depend on the dataset used).
+#Source: Mental health survey data 
+#Format: CSV, Excel, or other tabular formats.
+#Variables: Age, gender, lifestyle factors, medical history, family history of depression, sleep patterns, etc. (The actual features will depend on the dataset used).
 
 ## Data Set Explanation
-The dataset contains information collected from a mental health survey. Each record represents an individual and includes multiple features such as age, gender, lifestyle choices (e.g., physical activity, sleep), and previous medical history. The target variable (dependent) could be a binary variable representing whether the person is diagnosed with depression or not.
- Preprocessing Steps:
+# The dataset contains information collected from a mental health survey. Each record represents an individual and includes multiple features such as age, gender, lifestyle choices (e.g., physical activity, sleep), and previous medical history. The target variable (dependent) could be a binary variable representing whether the person is diagnosed with depression or not.
+# Preprocessing Steps:
 Handle missing values by imputation or deletion.
 Encode categorical variables (e.g., gender, medical history) using techniques such as one-hot encoding.
 Normalize numerical features to ensure consistent scaling.
